@@ -1,8 +1,8 @@
 #nome=str(input('Qual é seu nome?'))
-#if nome == 'Gustavo':
-#    print('Que bosta em lol lol XD XD')
+#if nome == 'Bruno':
+#    print('Belo nome')
 #else:
-#    print('Ainda bem que seu nome não é Gustavo')
+#    print('Seu nome não é Bruno')
 #print(f'Bom dia, {nome}')
 
 #n1=float(input('Digite a primeira nota:'))
